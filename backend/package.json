@@ -15,7 +15,7 @@
     "express": "^5.1.0",
     "express-rate-limit": "^7.5.0",
     "morgan": "^1.10.0",
-    "openai": "^4.93.0",
+    "openai": "^4.103.0",
     "path-to-regexp": "^6.3.0"
   }
 }
