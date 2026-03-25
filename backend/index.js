@@ -89,6 +89,5 @@ const PORT = process.env.PORT || 5001;
 
 app.listen(PORT, "0.0.0.0", () => {
   console.log(`🚀 Mira is running on:
-  - http://localhost:${PORT}
-  console.log(`🚀 Mira is running on http://localhost:${PORT}`);
+- http://localhost:${PORT}`);
 });
